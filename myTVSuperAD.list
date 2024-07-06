@@ -1,0 +1,22 @@
+#TVB myTVSuper 
+#surge
+#2024/7/6
+
+DOMAIN,googleads.g.doubleclick.net,REJECT-TINYGIF
+DOMAIN,youbora.tvb.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,youboranqs01.com,REJECT-TINYGIF // 用于跟踪视频播放性能，并发送给Youbora进行分析和监控。
+DOMAIN,securepubads.g.doubleclick.net,REJECT-TINYGIF // DoubleClick.net、ide_cookie、googlesyndication.com、googleapis.com-被谷歌广告经理用于广告定位。
+DOMAIN,ads.stickyadstv.com,REJECT-TINYGIF
+DOMAIN,ads.aralego.com,REJECT-TINYGIF
+DOMAIN,pubads.g.doubleclick.net,REJECT-TINYGIF
+DOMAIN,servx.bidsxplayer.com,REJECT-TINYGIF // Added for: servx.bidsxplayer.com:443
+DOMAIN,mai.tvb.com,REJECT-TINYGIF // Added for: mai.tvb.com:443
+DOMAIN-SUFFIX,ads.tremorhub.com,REJECT-TINYGIF // Added for: lus96-lmu4a.ads.tremorhub.com:443
+DOMAIN-SUFFIX,youborafds01.com,REJECT-TINYGIF // Added for: a-fds.youborafds01.com:443
+DOMAIN,mytv.demdex.net,REJECT-TINYGIF // Added for: mytv.demdex.net:443
+DOMAIN,servx.playstream.media,REJECT-TINYGIF // Added for: servx.playstream.media:443
+DOMAIN,servg.bidsxplayer.com,REJECT-TINYGIF // Added for: servg.bidsxplayer.com:443
+DOMAIN,servx.andbeyond.media,REJECT-TINYGIF // Added for: servx.andbeyond.media:443
+DOMAIN,t-mai.tvb.com,REJECT-TINYGIF // Added for: t-mai.tvb.com:443
+DOMAIN,ads.adserver.newsochub.com,REJECT-TINYGIF // Added for: ads.adserver.newsochub.com:443
+DOMAIN,ads.cdn.tvb.com,REJECT-TINYGIF // Added for: ads.cdn.tvb.com:443
