@@ -5,7 +5,7 @@
 DOMAIN,googleads.g.doubleclick.net,REJECT-TINYGIF
 DOMAIN,youbora.tvb.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,youboranqs01.com,REJECT-TINYGIF // 用于跟踪视频播放性能，并发送给Youbora进行分析和监控。
-DOMAIN,securepubads.g.doubleclick.net,REJECT-TINYGIF // DoubleClick.net、ide_cookie、googlesyndication.com、googleapis.com-被谷歌广告经理用于广告定位。
+# DOMAIN,securepubads.g.doubleclick.net,REJECT-TINYGIF // DoubleClick.net、ide_cookie、googlesyndication.com、googleapis.com-被谷歌广告经理用于广告定位。
 DOMAIN,ads.stickyadstv.com,REJECT-TINYGIF
 DOMAIN,ads.aralego.com,REJECT-TINYGIF
 DOMAIN,pubads.g.doubleclick.net,REJECT-TINYGIF
